@@ -1,6 +1,7 @@
 .modal_container {
   position: absolute;
   left: 500px;
+  width: 920px;
   top: 50px;
   background-color: #fff;
   border: 3px solid #000;

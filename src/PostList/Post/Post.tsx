@@ -18,7 +18,7 @@ export function Post({id, title, body}: IPostProps) {
   }
 
   useEffect(() => {
-    if (window.location.href === `http://localhost:3000/#/posts/post${id}`) {
+    if (window.location.href === `http://localhost:3000/#/posts/post${id}` || window.location.href === `https://k4m4l0v.github.io/eternal-scroll/#/posts/post${id}`) {
       setIsOpen(true);
     }
   }, [])

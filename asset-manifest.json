@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/eternal-scroll/static/css/main.6acc873e.css",
-    "main.js": "/eternal-scroll/static/js/main.a5e8640b.js",
+    "main.css": "/eternal-scroll/static/css/main.fc500aa1.css",
+    "main.js": "/eternal-scroll/static/js/main.57b61734.js",
     "index.html": "/eternal-scroll/index.html",
-    "main.6acc873e.css.map": "/eternal-scroll/static/css/main.6acc873e.css.map",
-    "main.a5e8640b.js.map": "/eternal-scroll/static/js/main.a5e8640b.js.map"
+    "main.fc500aa1.css.map": "/eternal-scroll/static/css/main.fc500aa1.css.map",
+    "main.57b61734.js.map": "/eternal-scroll/static/js/main.57b61734.js.map"
   },
   "entrypoints": [
-    "static/css/main.6acc873e.css",
-    "static/js/main.a5e8640b.js"
+    "static/css/main.fc500aa1.css",
+    "static/js/main.57b61734.js"
   ]
 }

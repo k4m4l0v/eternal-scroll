@@ -1,0 +1,37 @@
+li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 50px;
+  width: 1500px;
+  border-bottom: 2px solid #000;
+}
+
+span {
+  font-size: 24px;
+}
+
+.content {
+  font-size: 18px;
+  width: 800px;
+  white-space: nowrap; 
+  overflow: hidden; 
+  text-overflow: ellipsis;
+}
+
+.title {
+  width: 450px;
+  white-space: nowrap; 
+  overflow: hidden; 
+  text-overflow: ellipsis;
+}
+
+button {
+  padding: 15px 25px;
+  border-radius: 15px;
+}
+
+.link {
+  text-decoration: none;
+  color: #000;
+}

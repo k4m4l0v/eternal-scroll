@@ -1,0 +1,9 @@
+.modal_container {
+  position: absolute;
+  left: 500px;
+  top: 50px;
+  background-color: #fff;
+  border: 3px solid #000;
+  border-radius: 15px;
+  padding: 20px;
+}
